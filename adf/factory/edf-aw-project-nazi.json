@@ -1,0 +1,15 @@
+{
+	"name": "edf-aw-project-nazi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a02f6c7a-0235-41b4-8614-6c8e07228518",
+		"tenantId": "d689239e-c492-40c6-b391-2c5951d31d14"
+	}
+}
